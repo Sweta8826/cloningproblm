@@ -1,4 +1,4 @@
-
+package mvnPractice;
 
 public class Test implements Cloneable {
 
