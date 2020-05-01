@@ -1,4 +1,4 @@
-package cloningExample;
+
 
 public class Test implements Cloneable {
 
